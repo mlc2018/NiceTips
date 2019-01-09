@@ -1,4 +1,4 @@
-# NiceTips
+# TipReminder
 
 One day, I want to have a nice and happy travel, I found I needed a tip calculator, so I wrote one.
 
